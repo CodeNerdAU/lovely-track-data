@@ -3,6 +3,8 @@
   "trackId": "watkinsglen 2021 cupcircuit",
   "country": "US",
   "length": 3940,
+  "pitentry": 0.928,
+  "pitexit": 0.107,
   "sector": [
     {
       "marker": 0.415,
